@@ -1,0 +1,6 @@
+[user]
+	name = Kevan Davis
+	email = kevan.davis@me.com
+	signingkey = AF991DDD24B18D0E29071663AD7783F928ED82AE
+[include]
+	path = ~/.common.gitconfig

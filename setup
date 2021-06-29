@@ -1,0 +1,8 @@
+#!/bin/env bash
+
+ln -sf ~/dotfiles/src/common.gitconfig ~/.common.gitconfig
+if [ $SPIN ]; then
+  ln -sf ~/dotfiles/src/shopify.gitconfig ~/.gitconfig
+else
+  ln -sf ~/dotfiles/src/personal.gitconfig ~/.gitconfig
+fi

@@ -1,0 +1,6 @@
+[user]
+	name = Kevan Davis
+	email = kevan.davis@shopify.com
+	signingkey = A75644C3AA2466074F795E3CD9DE90E9EEC0A28C
+[include]
+	path = ~/.common.gitconfig
